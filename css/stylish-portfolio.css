@@ -247,6 +247,9 @@ h1#about {
 .call-to-action .btn {
     margin: 10px;
 }
+img.img-portfolio.img-responsive{
+    min-height: 300px;
+}
 /* Map */
 
 .map {
